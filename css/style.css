@@ -1,0 +1,58 @@
+@media only screen and (min-width: 680px) {
+@font-face {
+     font-family:'death';
+     src: url('../font/distantgalaxy.ttf');
+}
+html,body{
+	max-width: auto;
+	max-height: auto;
+}
+*{
+	 font-family:'death';
+
+}
+#getData{
+	position: relative; left: 35em; top: 7em;
+}
+#jumbtext{
+	background-color: black;
+	color: white; 
+
+}
+h5{
+	color: white;
+	font-family: 'death';
+}
+h1{
+	font-family: 'death';
+	font-size:6em;
+}
+li{
+	color: white;
+	}
+}
+#myModal{
+	width: 50em;
+	position: absolute; top: 15em; left: 18em;
+}
+#texa{
+	color: white;
+}
+h3{
+	color: white;
+}
+#boav{
+	position: relative; top: 25px; left: 65px;
+}
+img{
+	height: 20px;
+	width: 2em;
+	background-color: white;
+	border-radius: 20px;
+}
+tr:hover{
+	background-color: grey;
+}
+h5{
+	margin-left: 90px;
+}
